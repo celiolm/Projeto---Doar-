@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\database\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:database\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1046588\\AppData\\Local\\SourceServer\\4127466e93100eeaacee7702af5aef7223f01d324eb1d7817e5018c0a79b26a1\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\CancellationTokenSource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\database\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:database\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\forms\\frmalterarcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmalterarcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\forms\\frmalterarcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmalterarcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\forms\\frmmanutencaodoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmmanutencaodoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\forms\\frmmanutencaodoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmmanutencaodoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\forms\\frmcadastrardoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmcadastrardoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\forms\\frmcadastrardoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmcadastrardoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\doarmais.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:doarmais.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\database\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:database\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\forms\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\forms\\frmlistadoacoes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmlistadoacoes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\forms\\frmlistadoacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmlistadoacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\forms\\frmlistadoacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmlistadoacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|d:\\c\u00E9lio\\projetos\\1 - doarmais - infinityfree\\forms\\frmverdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmverdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\forms\\frmverdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmverdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CancellationTokenSource.cs",
+              "DocumentMoniker": "C:\\Users\\1046588\\AppData\\Local\\SourceServer\\4127466e93100eeaacee7702af5aef7223f01d324eb1d7817e5018c0a79b26a1\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\CancellationTokenSource.cs",
+              "ToolTip": "C:\\Users\\1046588\\AppData\\Local\\SourceServer\\4127466e93100eeaacee7702af5aef7223f01d324eb1d7817e5018c0a79b26a1\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\CancellationTokenSource.cs [Somente Leitura]",
+              "ViewState": "AgIAADADAAAAAAAAAAAMwD4DAAAQAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T14:03:26.114Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:58:32.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Database\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "Database\\UsuarioDAO.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Database\\UsuarioDAO.cs",
+              "RelativeToolTip": "Database\\UsuarioDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T12:34:17.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAlterarCadastro.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmAlterarCadastro.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmAlterarCadastro.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmAlterarCadastro.cs",
+              "RelativeToolTip": "Forms\\FrmAlterarCadastro.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAIwIoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T12:18:11.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmManutencaoDoacao.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmManutencaoDoacao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmManutencaoDoacao.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmManutencaoDoacao.cs",
+              "RelativeToolTip": "Forms\\FrmManutencaoDoacao.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwF4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T12:03:06.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoarMais.csproj",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\DoarMais.csproj",
+              "RelativeDocumentMoniker": "DoarMais.csproj",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\DoarMais.csproj",
+              "RelativeToolTip": "DoarMais.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-03T13:50:18.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmListaDoacoes.Designer.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmListaDoacoes.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmListaDoacoes.Designer.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmListaDoacoes.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmListaDoacoes.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:14:18.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmListaDoacoes.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmListaDoacoes.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmListaDoacoes.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmListaDoacoes.cs",
+              "RelativeToolTip": "Forms\\FrmListaDoacoes.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAtwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:12:39.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Database\\Conexao.cs",
+              "RelativeDocumentMoniker": "Database\\Conexao.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Database\\Conexao.cs",
+              "RelativeToolTip": "Database\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:45:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmCadastrarDoacao.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmCadastrarDoacao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCadastrarDoacao.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmCadastrarDoacao.cs",
+              "RelativeToolTip": "Forms\\FrmCadastrarDoacao.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA6wGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:42:30.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Database\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "Database\\CloudinaryService.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Database\\CloudinaryService.cs",
+              "RelativeToolTip": "Database\\CloudinaryService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:39:43.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmVerDoacao.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmVerDoacao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmVerDoacao.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmVerDoacao.cs",
+              "RelativeToolTip": "Forms\\FrmVerDoacao.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T14:25:17.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T14:20:07.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmVerDoacao.cs [Design]",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmVerDoacao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmVerDoacao.cs",
+              "ToolTip": "C:\\Users\\1046588\\OneDrive - SENAC em Minas - EDU\\P UC16 - Projeto Integrador Assistente de Desenvolvimento de Aplicativos Computacionais\\1 - Doar Mais\\Programa - Claude\\DoarMais\\Forms\\FrmVerDoacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:25:39.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMenu.cs [Projeto]",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMenu.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmMenu.cs [Projeto]",
+              "RelativeToolTip": "Forms\\FrmMenu.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:25:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmManutencaoDoacao.cs [Projeto]",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmManutencaoDoacao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmManutencaoDoacao.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmManutencaoDoacao.cs [Projeto]",
+              "RelativeToolTip": "Forms\\FrmManutencaoDoacao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:25:22.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmListaDoacoes.cs [Design]",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmListaDoacoes.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmListaDoacoes.cs",
+              "ToolTip": "C:\\Users\\1046588\\OneDrive - SENAC em Minas - EDU\\P UC16 - Projeto Integrador Assistente de Desenvolvimento de Aplicativos Computacionais\\1 - Doar Mais\\Programa - Claude\\DoarMais\\Forms\\FrmListaDoacoes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:25:10.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmCadastro.cs [Projeto]",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmCadastro.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCadastro.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmCadastro.cs [Projeto]",
+              "RelativeToolTip": "Forms\\FrmCadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:25:00.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmCadastrarDoacao.cs [Projeto]",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmCadastrarDoacao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCadastrarDoacao.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmCadastrarDoacao.cs [Projeto]",
+              "RelativeToolTip": "Forms\\FrmCadastrarDoacao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:24:46.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAlterarCadastro.cs [Projeto]",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmAlterarCadastro.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmAlterarCadastro.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmAlterarCadastro.cs [Projeto]",
+              "RelativeToolTip": "Forms\\FrmAlterarCadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:24:30.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs [Projeto]",
+              "DocumentMoniker": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "D:\\C\u00E9lio\\Projetos\\1 - DoarMais - InfinityFree\\Forms\\FrmLogin.cs [Projeto]",
+              "RelativeToolTip": "Forms\\FrmLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:22:05.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

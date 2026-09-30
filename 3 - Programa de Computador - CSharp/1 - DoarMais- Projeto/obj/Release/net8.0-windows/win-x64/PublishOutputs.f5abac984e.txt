@@ -1,0 +1,13 @@
+E:\1 - Doarmais\Opa\DoarMais.pdb
+E:\1 - Doarmais\Opa\ca.pem
+E:\1 - Doarmais\Opa\D3DCompiler_47_cor3.dll
+E:\1 - Doarmais\Opa\PenImc_cor3.dll
+E:\1 - Doarmais\Opa\PresentationNative_cor3.dll
+E:\1 - Doarmais\Opa\vcruntime140_cor3.dll
+E:\1 - Doarmais\Opa\wpfgfx_cor3.dll
+E:\1 - Doarmais\Opa\comerr64.dll
+E:\1 - Doarmais\Opa\gssapi64.dll
+E:\1 - Doarmais\Opa\k5sprt64.dll
+E:\1 - Doarmais\Opa\krb5_64.dll
+E:\1 - Doarmais\Opa\krbcc64.dll
+E:\1 - Doarmais\Opa\DoarMais.exe

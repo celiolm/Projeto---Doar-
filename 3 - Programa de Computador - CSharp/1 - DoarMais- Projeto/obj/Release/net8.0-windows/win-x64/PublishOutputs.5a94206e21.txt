@@ -1,0 +1,12 @@
+D:\Célio\Projetos\exe 1\DoarMais.pdb
+D:\Célio\Projetos\exe 1\D3DCompiler_47_cor3.dll
+D:\Célio\Projetos\exe 1\PenImc_cor3.dll
+D:\Célio\Projetos\exe 1\PresentationNative_cor3.dll
+D:\Célio\Projetos\exe 1\vcruntime140_cor3.dll
+D:\Célio\Projetos\exe 1\wpfgfx_cor3.dll
+D:\Célio\Projetos\exe 1\comerr64.dll
+D:\Célio\Projetos\exe 1\gssapi64.dll
+D:\Célio\Projetos\exe 1\k5sprt64.dll
+D:\Célio\Projetos\exe 1\krb5_64.dll
+D:\Célio\Projetos\exe 1\krbcc64.dll
+D:\Célio\Projetos\exe 1\DoarMais.exe

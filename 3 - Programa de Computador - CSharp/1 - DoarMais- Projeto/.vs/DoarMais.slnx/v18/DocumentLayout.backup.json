@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|e:\\c\u00E9lio\\curr\u00EDculo - projeto da escola\\1 - doarmais - aiven - finalizado\\1 - doarmais - aiven - projeto\\database\\logacessodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:database\\logacessodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|e:\\c\u00E9lio\\curr\u00EDculo - projeto da escola\\1 - doarmais - aiven - finalizado\\1 - doarmais - aiven - projeto\\database\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:database\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|e:\\c\u00E9lio\\curr\u00EDculo - projeto da escola\\1 - doarmais - aiven - finalizado\\1 - doarmais - aiven - projeto\\database\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:database\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|e:\\c\u00E9lio\\curr\u00EDculo - projeto da escola\\1 - doarmais - aiven - finalizado\\1 - doarmais - aiven - projeto\\forms\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|e:\\c\u00E9lio\\curr\u00EDculo - projeto da escola\\1 - doarmais - aiven - finalizado\\1 - doarmais - aiven - projeto\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|e:\\c\u00E9lio\\curr\u00EDculo - projeto da escola\\1 - doarmais - aiven - finalizado\\1 - doarmais - aiven - projeto\\forms\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\forms\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|e:\\c\u00E9lio\\curr\u00EDculo - projeto da escola\\1 - doarmais - aiven - finalizado\\1 - doarmais - aiven - projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\forms\\frmcadastrardoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmcadastrardoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\forms\\frmverdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmverdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\forms\\frmalterarcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmalterarcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\forms\\frmlistadoacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmlistadoacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\forms\\frmmanutencaodoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D31F0A-A1EE-F0C6-F7B9-03B46F679AFB}|DoarMais.csproj|solutionrelative:forms\\frmmanutencaodoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Database\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "Database\\CloudinaryService.cs",
+              "ToolTip": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Database\\CloudinaryService.cs",
+              "RelativeToolTip": "Database\\CloudinaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:17:04.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:14:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.Designer.cs",
+              "ToolTip": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:13:55.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T19:53:31.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCadastro.cs",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmCadastro.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCadastro.cs",
+              "ToolTip": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmCadastro.cs",
+              "RelativeToolTip": "Forms\\FrmCadastro.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T19:43:31.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Database\\Conexao.cs",
+              "RelativeDocumentMoniker": "Database\\Conexao.cs",
+              "ToolTip": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Database\\Conexao.cs",
+              "RelativeToolTip": "Database\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:42:00.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMenu.cs [Projeto]",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMenu.cs",
+              "ToolTip": "E:\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmMenu.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmMenu.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T23:22:05.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogAcessoDAO.cs",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Database\\LogAcessoDAO.cs",
+              "RelativeDocumentMoniker": "Database\\LogAcessoDAO.cs",
+              "ToolTip": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Database\\LogAcessoDAO.cs",
+              "RelativeToolTip": "Database\\LogAcessoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:28:06.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmCadastrarDoacao.cs [Projeto]",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmCadastrarDoacao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCadastrarDoacao.cs",
+              "ToolTip": "E:\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmCadastrarDoacao.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmCadastrarDoacao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T19:19:47.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmVerDoacao.cs [Projeto]",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmVerDoacao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmVerDoacao.cs",
+              "ToolTip": "E:\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmVerDoacao.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmVerDoacao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:39:47.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs [Projeto]",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmLogin.cs [Projeto]",
+              "RelativeToolTip": "Forms\\FrmLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:44:35.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCadastro.cs [Projeto]",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmCadastro.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCadastro.cs",
+              "ToolTip": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmCadastro.cs [Projeto]",
+              "RelativeToolTip": "Forms\\FrmCadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T01:18:39.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAlterarCadastro.cs [Projeto]",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmAlterarCadastro.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmAlterarCadastro.cs",
+              "ToolTip": "E:\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmAlterarCadastro.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmAlterarCadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:17:11.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmListaDoacoes.cs [Projeto]",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmListaDoacoes.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmListaDoacoes.cs",
+              "ToolTip": "E:\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmListaDoacoes.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmListaDoacoes.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T20:42:22.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmManutencaoDoacao.cs [Projeto]",
+              "DocumentMoniker": "E:\\C\u00E9lio\\Curr\u00EDculo - Projeto da Escola\\1 - DoarMais - Aiven - Finalizado\\1 - DoarMais - Aiven - Projeto\\Forms\\FrmManutencaoDoacao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmManutencaoDoacao.cs",
+              "ToolTip": "E:\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmManutencaoDoacao.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\1 - Doarmais\\1 - Doa\u00E7\u00E3oMais - Aiven - EXE\\1 - Doa\u00E7\u00E3oMais - Aiven\\Forms\\FrmManutencaoDoacao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T20:53:32.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

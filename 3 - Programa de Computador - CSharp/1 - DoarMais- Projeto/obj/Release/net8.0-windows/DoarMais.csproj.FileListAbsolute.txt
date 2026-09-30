@@ -1,0 +1,85 @@
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\DoarMais.exe
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\DoarMais.deps.json
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\DoarMais.runtimeconfig.json
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\DoarMais.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\DoarMais.pdb
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\BCrypt.Net-Next.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\CloudinaryDotNet.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\Google.Protobuf.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\MySql.Data.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\ZstdSharp.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\bin\Release\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.csproj.AssemblyReference.cache
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.Forms.FrmAlterarCadastro.resources
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.Forms.FrmCadastrarDoacao.resources
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.Forms.FrmCadastro.resources
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.Forms.FrmListaDoacoes.resources
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.Forms.FrmLogin.resources
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.Forms.FrmManutencaoDoacao.resources
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.Forms.FrmMenu.resources
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.Forms.FrmVerDoacao.resources
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.Properties.Resources.resources
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.csproj.GenerateResource.cache
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.AssemblyInfoInputs.cache
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.AssemblyInfo.cs
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.csproj.CoreCompileInputs.cache
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.csproj.Up2Date
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\refint\DoarMais.dll
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.pdb
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\DoarMais.genruntimeconfig.cache
+D:\Célio\Projetos\1 - DoarMais - InfinityFree\obj\Release\net8.0-windows\ref\DoarMais.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\ca.pem
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\DoarMais.exe
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\DoarMais.deps.json
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\DoarMais.runtimeconfig.json
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\DoarMais.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\DoarMais.pdb
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\BCrypt.Net-Next.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\CloudinaryDotNet.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\Google.Protobuf.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\K4os.Hash.xxHash.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\MySql.Data.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\ZstdSharp.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\bin\Release\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.csproj.AssemblyReference.cache
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.Forms.FrmAlterarCadastro.resources
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.Forms.FrmCadastrarDoacao.resources
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.Forms.FrmCadastro.resources
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.Forms.FrmListaDoacoes.resources
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.Forms.FrmLogin.resources
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.Forms.FrmManutencaoDoacao.resources
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.Forms.FrmMenu.resources
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.Forms.FrmVerDoacao.resources
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.Properties.Resources.resources
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.csproj.GenerateResource.cache
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.GeneratedMSBuildEditorConfig.editorconfig
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.AssemblyInfoInputs.cache
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.AssemblyInfo.cs
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.csproj.CoreCompileInputs.cache
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.csproj.Up2Date
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\refint\DoarMais.dll
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.pdb
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\DoarMais.genruntimeconfig.cache
+E:\1 - Doarmais\1 - DoaçãoMais - Aiven - EXE\1 - DoaçãoMais - Aiven\obj\Release\net8.0-windows\ref\DoarMais.dll

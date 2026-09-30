@@ -1,0 +1,158 @@
+/* ===== HERO SECTION (PÁGINA INICIAL) ===== */
+.hero {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
+                url('https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=2070&auto=format&fit=crop') no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-content h1 {
+    font-family: 'Arvo', serif;
+    font-size: 4.5rem;
+    color: var(--branco);
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 1.3rem;
+    color: var(--branco);
+    max-width: 700px;
+    margin: 0 auto 30px;
+}
+
+.hero-btns {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* ===== PÁGINA SOBRE ===== */
+.sobre-container {
+    max-width: 1200px;
+    margin: 120px auto 60px;
+    padding: 0 20px;
+}
+
+.sobre-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.sobre-header h1 {
+    font-family: 'Arvo', serif;
+    font-size: 3rem;
+    color: var(--cor-primaria);
+    margin-bottom: 20px;
+}
+
+.sobre-header p {
+    font-size: 1.2rem;
+    color: #666;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.sobre-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.sobre-texto h2 {
+    font-family: 'Arvo', serif;
+    color: var(--cor-primaria);
+    margin-bottom: 20px;
+}
+
+.sobre-texto p {
+    line-height: 1.8;
+    color: #444;
+    margin-bottom: 20px;
+}
+
+.sobre-imagem {
+    width: 100%;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: var(--sombra-suave);
+    cursor: pointer;
+}
+
+.sobre-imagem img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s;
+    cursor: pointer;
+}
+
+.sobre-imagem img:hover {
+    transform: scale(1.05);
+}
+
+/* ===== VALORES ===== */
+.valores {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--verde-escuro) 100%);
+    color: var(--branco);
+    padding: 60px 40px;
+    border-radius: 20px;
+    margin-bottom: 60px;
+}
+
+.valores h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+}
+
+.valores-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.valor-item {
+    text-align: center;
+    padding: 20px;
+    cursor: default;
+}
+
+.valor-item i {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: var(--destaque-amarelo);
+}
+
+.valor-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+/* ===== PÁGINA VER DOAÇÕES ===== */
+.doacoes-container {
+    max-width: 1200px;
+    margin: 120px auto 60px;
+    padding: 0 20px;
+}
+
+.doacoes-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.doacoes-header h1 {
+    font-family: 'Arvo', serif;
+    font-size: 2.5rem;
+    color: var(--cor-primaria);
+    margin-bottom: 10px;
+}
+
+.doacoes-header p {
+    color: #666;
+    font-size: 1.1rem;
+}

@@ -1,0 +1,164 @@
+/* ===== HEADER PRINCIPAL ===== */
+
+body {
+    margin: 0;
+    
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--cinza-claro);
+}
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.80);
+    z-index: 1000;
+}
+
+.container-header {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    position: relative;
+}
+
+/* Logo */
+.logo-area {
+    cursor: pointer;
+}
+
+.logo-area .minha-logo {
+    width: 180px;
+    height: auto;
+    cursor: pointer;
+}
+
+/* Menu Central */
+.menu {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+    gap: 35px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: var(--texto-escuro);
+    font-weight: 600;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.menu a:hover {
+    color: var(--cor-primaria);
+    transform: translateY(-2px);
+    display: inline-block;
+}
+
+.menu a.active {
+    color: var(--cor-primaria);
+    border-bottom: 2px solid var(--cor-primaria);
+}
+
+/* Botões do Header */
+.acoes-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.foto-perfil-circulo {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #fff;
+}
+
+.btn-login-moderno {
+    text-decoration: none;
+    color: var(--texto-escuro);
+    border: 2px solid var(--texto-escuro);
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.btn-login-moderno:hover {
+    background: var(--texto-escuro);
+    color: var(--branco);
+}
+
+.btn-cadastro-moderno {
+    text-decoration: none;
+    color: #fff; 
+    background: #000;
+    border: 2px solid #000;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.btn-cadastro-moderno:hover {
+    background: #fff;
+    color: #000;
+    border-color: #000;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Header do Login */
+.header-login {
+    position: relative;
+    top: 0;
+    background: var(--branco);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    padding: 10px 0;
+    z-index: 1000;
+}
+
+.header-login img {
+    width: 180px;
+    height: auto;
+}
+
+.container-header-login {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn-voltar-inicio {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: var(--texto-escuro);
+    font-weight: 500;
+    padding: 8px 16px;
+    border-radius: 5px;
+    transition: 0.3s;
+    cursor: pointer;
+    margin-left: auto;
+}
+
+.btn-voltar-inicio:hover {
+    background: var(--cinza-claro);
+    color: var(--cor-primaria);
+}

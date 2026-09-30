@@ -1,0 +1,143 @@
+/* ===== FOOTER PRINCIPAL ===== */
+.footer-login {
+  background: var(--cor-primaria);
+  color: var(--branco);
+  padding: 20px;
+  text-align: center;
+}
+
+.container-footer-login {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-login p {
+  margin: 0;
+  opacity: 0.9;
+  font-size: 0.95rem;
+}
+
+/* ── Footer melhorado ── */
+.footer {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 60%, #0f3460 100%);
+  color: #ccc;
+  padding-top: 55px;
+}
+.container-footer {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+  display: grid;
+  grid-template-columns: 1.6fr 1fr 1fr 1fr;
+  gap: 35px;
+}
+.footer-brand .minha-logo {
+  height: 38px;
+  margin-bottom: 14px;
+  filter: brightness(0) invert(1);
+}
+.footer-brand p {
+  font-size: 0.88rem;
+  line-height: 1.7;
+  color: #aaa;
+  margin-bottom: 18px;
+}
+.footer-social {
+  display: flex;
+  gap: 10px;
+}
+.footer-social a {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ccc;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition:
+    background 0.2s,
+    color 0.2s;
+}
+.footer-social a:hover {
+  background: var(--cor-primaria);
+  color: #fff;
+}
+
+.footer-col h4 {
+  font-family: "Arvo", serif;
+  font-size: 0.95rem;
+  color: #fff;
+  margin-bottom: 18px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.08);
+}
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.footer-col ul li {
+  margin-bottom: 10px;
+}
+.footer-col ul li a {
+  color: #aaa;
+  text-decoration: none;
+  font-size: 0.88rem;
+  transition: color 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.footer-col ul li a::before {
+  content: "›";
+  color: var(--verde-claro);
+  font-size: 1rem;
+}
+.footer-col ul li a:hover {
+  color: #fff;
+}
+
+.footer-col .contato-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 12px;
+  font-size: 0.87rem;
+  color: #aaa;
+}
+.footer-col .contato-item i {
+  color: var(--verde-claro);
+  width: 16px;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+  padding: 18px 20px;
+  text-align: center;
+}
+.footer-bottom-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.footer-bottom p {
+  font-size: 0.83rem;
+  color: #666;
+  margin: 0;
+}
+.footer-bottom .feito-com {
+  font-size: 0.83rem;
+  color: #666;
+}
+.footer-bottom .feito-com i {
+  color: #e57373;
+}
